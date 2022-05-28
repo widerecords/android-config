@@ -1,0 +1,14 @@
+rm -rfv /sdcard/.FileManagerRecycler
+rm -rfv /sdcard/Alarms
+rm -rfv /sdcard/Android
+rm -rfv /sdcard/Audiobooks
+rm -rfv /sdcard/DCIM
+rm -rfv /sdcard/Documents
+rm -rfv /sdcard/Movies
+rm -rfv /sdcard/Music
+rm -rfv /sdcard/Notifications
+rm -rfv /sdcard/Pictures
+rm -rfv /sdcard/Podcasts
+rm -rfv /sdcard/Recordings
+rm -rfv /sdcard/Ringtones
+
